@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
-        id          = "https://web.whatsapp.com/"
-        version     = "url"
+        id          = "com.maleo.whatsapp"
+        version     = "0.0.1"
         height      = "600"
         width       = "800">
  
@@ -10,14 +10,15 @@
   </name>
 
   <description>
+	WhatsApp Running From Maleo
   </description>
 
   <author href="https://web.whatsapp.com/">WhatsApp</author>
 
-  <icon src="/home/cho2/komodo-for-android/source/whatsapp.svg"/>
+  <icon src="whatsapp.svg"/>
   <content src="index.html"/>
 
   <license>
-    (c) 2014, Instagram
+    (c) 2015, WhatsApp
   </license>
 </widget>
